@@ -8,18 +8,18 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  APP_ID: 'wxb42a6d4e6b0093ca',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  APP_SECRET: '0edfba51b72220344c9662fada5754e1',
 
-  PROVINCE: '广东',
-  CITY: '惠州',
+  PROVINCE: '重庆',
+  CITY: '綦江',
 
   USERS: [
     {
       // 想要发送的人的名字
-      name: '宝贝',
+      name: '我的宝~',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: '',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
